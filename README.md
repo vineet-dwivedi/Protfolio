@@ -78,7 +78,7 @@ A strong portfolio helps show **not just what you know**, but **what you have bu
 ---
 
 ## 🔗 Live 
-🔗 Link: https://github.com/vyukxce 
+🔗 Link: https://protfolio-pearl-nine.vercel.app/
 
 ## 🙌 Connect with Me
 
@@ -87,6 +87,3 @@ Frontend Developer
 🔗 GitHub: https://github.com/vyukxce  
 
 ---
-
-> **Pro Tip:** Add screenshots of your site in the README under a “Gallery” section to visually showcase the design and interactivity.
-
