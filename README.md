@@ -1,7 +1,7 @@
 # 🧑‍💻 Protfolio
 
 Personal portfolio of frontend developer **Vineet Dwivedi**, focused on clean UI, smooth micro-interactions, and fully responsive web experiences. 
-
+Now this portfolio is just a dummy portfolio new React based portfolio is now ready... signing offf...
 ---
 
 ## 🔗 Live Demo
